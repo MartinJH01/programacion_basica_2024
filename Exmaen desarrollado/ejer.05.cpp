@@ -6,7 +6,7 @@ int main() {
     int numeroAlumnos;
     double costoPorAlumno, costoTotal;
 
-    cout << "Ingrese el número de alumnos: ";
+    cout << "Ingrese el numero de alumnos: ";
     cin >> numeroAlumnos;
 
     if (numeroAlumnos >= 100) {
