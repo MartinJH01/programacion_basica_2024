@@ -1,0 +1,16 @@
+ID Venta: 1001
+Fecha: 2024-03-06
+Detalles de la venta:
+-------------------
+Producto: ID Producto: 101, Descripcion: Laptop, Cantidad: 2, Subtotal: 2400
+-------------------
+Producto: ID Producto: 102, Descripcion: Smartphone, Cantidad: 3, Subtotal: 2400
+-------------------
+ID Venta: 1001
+Fecha: 2024-03-06
+Detalles de la venta:
+-------------------
+Producto: ID Producto: 101, Descripcion: Laptop, Cantidad: 2, Subtotal: 2400
+-------------------
+Producto: ID Producto: 102, Descripcion: Smartphone, Cantidad: 3, Subtotal: 2400
+-------------------
